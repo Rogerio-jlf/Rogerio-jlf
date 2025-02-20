@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 ![Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerio-jlf&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-jlf)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia a dia
 
