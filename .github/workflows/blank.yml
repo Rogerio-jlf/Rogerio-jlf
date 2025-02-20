@@ -33,7 +33,7 @@ jobs:
       - name: Push das mudanças
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PAT }}
           branch: main  # Corrigido de "master" para "main"
           force: true
 
