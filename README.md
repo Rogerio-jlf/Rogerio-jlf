@@ -165,7 +165,8 @@ Seja bem-vindo ao meu repositório! 🚀
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
+    width="400"
     height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rogerio-jlf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -173,7 +174,8 @@ Seja bem-vindo ao meu repositório! 🚀
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Stats"
+      width="400"
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-jlf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
